@@ -1,6 +1,6 @@
 # OpLexicon
 
-#Descrição
+# Descrição
 
 OpLexicon V3 é um léxico de sentimento para a língua portuguesa criado automáticamente e revisada por linguistas em relação a poloridade de alguns adjetivos do OpLexicon V2.1. tal qual publicado em [1]. O recurso é composto por é composto por uma lista de palavras classificadas com a sua categoria morfológica e anotadas com a polaridade positiva, negativa ou neutra.
 
@@ -8,7 +8,7 @@ Na versão atual, as linguistas Aline A. Vanin e Denise Hogetop identificaram e 
 
 
 
-#Como posso citar o OpLexicon V3.0? 
+# Como posso citar o OpLexicon V3.0? 
 
 Souza, M.; Vieira, R. Sentiment Analysis on Twitter Data for Portuguese Language. 10th International Conference Computational Processing of the Portuguese Language, 2012.
 
